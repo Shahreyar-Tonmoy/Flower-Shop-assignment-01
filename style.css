@@ -115,3 +115,32 @@
     text-align: center;
     padding: 100px 200px;
 }
+.flowers-container{
+    display: flex;
+    padding: 50px 00px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.flowers-images{
+    width: 250px;
+}
+.email-container{
+    text-align: center;
+    margin: -50px 230px;
+    padding: 100px;
+    background-image: url(./image/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+    
+}
+.email-subscribe input,textarea{
+    margin: 30px 10px 27px 0px;
+    padding: 15px 200px 15px 10px;
+    border-radius: 5px;
+    border: 0;
+}
+.btn.Subscribe{
+    padding: 15px 30px 15px 30px;
+}
