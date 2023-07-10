@@ -43,6 +43,7 @@
     background-color: #E55473;
     color: #fff;
     margin-top: 25px;
+    cursor: pointer;
 }
 
 /* Middle-banner-container */
@@ -143,4 +144,25 @@
 }
 .btn.Subscribe{
     padding: 15px 30px 15px 30px;
+}
+footer{
+    text-align: center;
+    border: #000 solid;
+    background-color: #111010;
+    color: rgb(163, 154, 154);
+    padding: 90px 0px;
+    margin-top: 150px;
+    
+}
+.footer-container{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.Shop{
+    color: #E55473;
+}
+.copyright{
+    margin-top: 25px;
 }
