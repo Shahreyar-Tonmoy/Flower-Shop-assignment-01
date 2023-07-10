@@ -28,7 +28,7 @@
 }
 .paragraph{
     margin-top: 25px;
-    font-size: 16px;
+    font-size: 14px;
     
 }
 .top-banner-text{
@@ -87,7 +87,7 @@
 }
 .support-container{
     display: flex;
-    margin: 150px 290px;
+    margin: 100px 290px;
     padding: 50px;
     align-items: center;
     justify-content: center;
@@ -95,4 +95,23 @@
     gap: 60px;
     text-align: center;
 }
-
+.Hot-deal{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 150px;
+    align-items: center;
+    margin: px 200px;
+    background-color: #FEF6F8;
+    padding: 100px 100px;
+}
+.hot-rose{
+    width: 200px;
+}
+.off{
+    color: #E55473;
+}
+.instagram{
+    text-align: center;
+    padding: 100px 200px;
+}
