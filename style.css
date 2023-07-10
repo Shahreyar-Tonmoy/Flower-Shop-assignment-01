@@ -41,7 +41,7 @@
     border: none;
     border-radius: 5px;
     background-color: #E55473;
-    color: #000;
+    color: #fff;
     margin-top: 25px;
 }
 
@@ -85,3 +85,14 @@
     top: 35px;
     
 }
+.support-container{
+    display: flex;
+    margin: 150px 290px;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    background-color: #F4F4F4;
+    gap: 60px;
+    text-align: center;
+}
+
